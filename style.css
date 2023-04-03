@@ -2,7 +2,7 @@ header {
   display: flex;
   align-items: center;
   padding: .5rem 3.75rem;
-  background-color: blue;
+  background-color: light blue;
 }
 header .logo-small {
   display: none;
@@ -11,5 +11,4 @@ p{
   color: #444444
     font-weight: 100;
 }
-<h1>About Me<h1>
 
