@@ -1,5 +1,14 @@
-<header>About Me</header>
+header {
+  display: flex;
+  align-items: center;
+  padding: .5rem 3.75rem;
+  background-color: purple;
+}
+header .logo-small {
+  display: none;
+}
 p{
   color: #444444
     font-weight: 100;
 }
+
